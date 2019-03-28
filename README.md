@@ -1,3 +1,3 @@
 # html-css
 
-https://github.com/Artyr87/html-css/
+https://github.io/Artyr87/html-css/
